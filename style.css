@@ -136,10 +136,15 @@ main{
     background-image: linear-gradient( #ffffff 20%, #ffd1dc 80%  );
 }
 
-.information{
+#h1{
     word-spacing: 4px;
     margin: 30px;
     
 }
+#skillinfo{
+   justify-content: space-around; 
+}
+
+
 
 
